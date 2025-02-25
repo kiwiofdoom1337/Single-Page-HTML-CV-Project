@@ -1,4 +1,4 @@
-To access a website click on the file
+To access a website click on index.html
 
 Link to the roadmap project:
 https://roadmap.sh/projects/single-page-cv
